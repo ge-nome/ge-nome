@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ge-nome
-- 👀 I’m interested in full stack development
+- 👀 I’m the full stack guy (JAMstack)
 - 🌱 I’m heavily reactive
 - 💞️ I’m looking to collaborate on all kinds of projects, especially ones with very complex implementation algorithms
 - 📫 You can reach me via email, ebubeokerezi@gmail.com
